@@ -1,2 +1,2 @@
-# dracula-spacemacs
-A dark theme for Spacemacs
+# Dracula for [Spacemacs](https://www.spacemacs.org/)
+A dark theme for [Spacemacs](https://www.spacemacs.org/)
