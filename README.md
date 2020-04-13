@@ -6,7 +6,7 @@ A dark theme for [Spacemacs](https://www.spacemacs.org/)
 
 # Install 
 
-All instructions can be found [HERE](./install.md)
+All instructions can be found [HERE](./Install.md)
 
 ## Team
 
