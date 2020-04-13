@@ -2,7 +2,7 @@
 A dark theme for [Spacemacs](https://www.spacemacs.org/)
 
 
-![exampleImage](./assets/example.png)
+![exampleImage](./assets/image.png)
 
 # Install 
 
