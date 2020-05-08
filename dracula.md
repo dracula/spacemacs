@@ -1,10 +1,3 @@
-# Install
-
-## Install manually
-
-1 - Copy the code below
-
-```lisp
  '(spacemacs-theme-custom-colors
   '((base . "#ffffff")
     (bg1 . "#282a36")
@@ -19,14 +12,3 @@
     (str . "#f1fa8c")
     (type . "#8be9fd")
     (var . "#7590db")))
-```
-
-2- Open the configuration file `.spacemacs` with:
-
-```>  SPC f e d ```
-
-3 - Add the copied code in `custom-set-variables`
-
-4 - Reload spacemacs ``` SPC q R ```
-
-5 - ENJOY!
